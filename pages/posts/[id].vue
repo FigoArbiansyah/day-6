@@ -1,6 +1,6 @@
 <template>
 	<Nav />
-	<div class="pt-24 px-20">
+	<div class="pt-24 md:px-20 px-5">
 		<div>
 			<p class="font-semibold font-serif" style="font-size: 25px;">{{post.title}}</p>
 		</div>
